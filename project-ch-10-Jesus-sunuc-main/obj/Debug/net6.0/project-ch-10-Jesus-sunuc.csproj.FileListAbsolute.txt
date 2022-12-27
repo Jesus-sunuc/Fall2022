@@ -1,0 +1,15 @@
+C:\Users\Jesus\Desktop\project-ch-10-Jesus-sunuc\bin\Debug\net6.0\project-ch-10-Jesus-sunuc.exe
+C:\Users\Jesus\Desktop\project-ch-10-Jesus-sunuc\bin\Debug\net6.0\project-ch-10-Jesus-sunuc.deps.json
+C:\Users\Jesus\Desktop\project-ch-10-Jesus-sunuc\bin\Debug\net6.0\project-ch-10-Jesus-sunuc.runtimeconfig.json
+C:\Users\Jesus\Desktop\project-ch-10-Jesus-sunuc\bin\Debug\net6.0\project-ch-10-Jesus-sunuc.dll
+C:\Users\Jesus\Desktop\project-ch-10-Jesus-sunuc\bin\Debug\net6.0\project-ch-10-Jesus-sunuc.pdb
+C:\Users\Jesus\Desktop\project-ch-10-Jesus-sunuc\obj\Debug\net6.0\project-ch-10-Jesus-sunuc.csproj.AssemblyReference.cache
+C:\Users\Jesus\Desktop\project-ch-10-Jesus-sunuc\obj\Debug\net6.0\project-ch-10-Jesus-sunuc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus\Desktop\project-ch-10-Jesus-sunuc\obj\Debug\net6.0\project-ch-10-Jesus-sunuc.AssemblyInfoInputs.cache
+C:\Users\Jesus\Desktop\project-ch-10-Jesus-sunuc\obj\Debug\net6.0\project-ch-10-Jesus-sunuc.AssemblyInfo.cs
+C:\Users\Jesus\Desktop\project-ch-10-Jesus-sunuc\obj\Debug\net6.0\project-ch-10-Jesus-sunuc.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\project-ch-10-Jesus-sunuc\obj\Debug\net6.0\project-ch-10-Jesus-sunuc.dll
+C:\Users\Jesus\Desktop\project-ch-10-Jesus-sunuc\obj\Debug\net6.0\refint\project-ch-10-Jesus-sunuc.dll
+C:\Users\Jesus\Desktop\project-ch-10-Jesus-sunuc\obj\Debug\net6.0\project-ch-10-Jesus-sunuc.pdb
+C:\Users\Jesus\Desktop\project-ch-10-Jesus-sunuc\obj\Debug\net6.0\project-ch-10-Jesus-sunuc.genruntimeconfig.cache
+C:\Users\Jesus\Desktop\project-ch-10-Jesus-sunuc\obj\Debug\net6.0\ref\project-ch-10-Jesus-sunuc.dll
